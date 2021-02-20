@@ -198,6 +198,17 @@ export const InputAreaEmail = styled.div`
    } 
 `;
 
+export const invalidEmail = styled.div`
+  & > p {
+    font-family: 'Montserrat';
+   font-weight: 400;
+   font-style: normal;
+   font-size: 10px;
+   line-height: 28px;
+   color: red;
+  }
+`;
+
 
 export const StyledLabelPass = styled.div`
  font-family: 'Montserrat';

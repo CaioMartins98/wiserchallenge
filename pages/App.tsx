@@ -1,7 +1,7 @@
 import React from 'react';
 import LoginPage from '../components/LoginPage/index';
 import '../styles/global';
-import RepositoryList from '../components/RepositoryList';
+
 import store from '../store';
 import { Provider } from 'react-redux';
 

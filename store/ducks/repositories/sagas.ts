@@ -10,3 +10,5 @@ function* fetchUser(action) {
       yield put({type: "USER_FETCH_FAILED", message: e.message});
    }
 }
+
+export default fetchUser;

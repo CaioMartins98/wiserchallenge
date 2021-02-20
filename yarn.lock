@@ -339,6 +339,13 @@
     jose "^1.28.0"
     typeorm "^0.2.24"
 
+"@types/next@^9.0.0":
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/@types/next/-/next-9.0.0.tgz#29aca06f8a5cfffc974a83b87e52ca57b2a506c4"
+  integrity sha512-gnBXM8rP1mnCgT1uE2z8SnpFTKRWReJlhbZLZkOLq/CH1ifvTNwjIVtXvsywTy1dwVklf+y/MB0Eh6FOa94yrg==
+  dependencies:
+    next "*"
+
 "@types/node@*", "@types/node@^14.14.28":
   version "14.14.31"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.31.tgz#72286bd33d137aa0d152d47ec7c1762563d34055"
@@ -2314,7 +2321,7 @@ next-redux@^0.1.1:
   resolved "https://registry.yarnpkg.com/next-redux/-/next-redux-0.1.1.tgz#56795856827f7cad3a7553e9e5492757d217f2de"
   integrity sha512-KY7WPF9SndchJ0hFm0xYL/j4E61uNe1qJoiFdP9+kNGitSSLbzz8wwnxz1x/ZQJYbu63pKrTtIUGGgPxpmRwBg==
 
-next@10.0.7:
+next@*, next@10.0.7:
   version "10.0.7"
   resolved "https://registry.yarnpkg.com/next/-/next-10.0.7.tgz#442f8e1da7454de33b0bbcc1ce5684b923597ee6"
   integrity sha512-We0utmwwfkvO12eLyUZd3tX9VLDE3FPpOaHpH3kqKdUTxJzUKt8FLBXCTm0mwsTKW5XColWG8mJvz2OLu3+3QA==
